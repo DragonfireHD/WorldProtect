@@ -22,7 +22,7 @@ use pocketmine\Server;
 
 class SaveInventory extends BaseWp implements Listener {
 	const TICKS = 10;
-	const DEBUG = false;
+	const DEBUG = true;
 	private $saveOnDeath = true;
 
 	public function __construct(Plugin $plugin) {

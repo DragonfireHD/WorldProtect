@@ -1,3 +1,7 @@
+Dies ist ein File Fix für Bancmd.php für php 7.4
+
+This is a file fix for Bancmd.php for php 7.4 
+
 <img src="https://raw.githubusercontent.com/alejandroliu/pocketmine-plugins/master/Media/WorldProtect-icon.png" style="width:64px;height:64px" width="64" height="64"/>
 
 <!-- meta:Categories = Anti-Griefing -->
